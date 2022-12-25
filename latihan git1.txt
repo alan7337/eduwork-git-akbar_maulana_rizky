@@ -1,1 +1,1 @@
-ini adalah sarana latihan git bagian 1
+Saya belajar git
