@@ -1,1 +1,1 @@
-ini adalah sarana latihan git bagian 2
+perintahnya adalah untuk menggantinya dengan kalimat apapun
